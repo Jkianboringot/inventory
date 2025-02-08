@@ -1,0 +1,39 @@
+/* Center the entire content */
+.content {
+    text-align: center;
+    margin: 50px auto;
+    width: 60%;
+}
+
+/* Style the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+/* Style table headers and cells */
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style the table header */
+th {
+    background-color: #f4f4f4;
+}
+
+/* Add spacing to action links */
+td a {
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    color: blue;
+}
+
+/* Improve action links hover effect */
+td a:hover {
+    color: red;
+}
+ 

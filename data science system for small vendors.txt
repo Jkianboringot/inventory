@@ -1,0 +1,16 @@
+data analysis system for small vendors
+
+
+project idea of the year 
+
+
+i want to create a small management system for small time vendors or store that can help with thier inventory management, sales tracking ,
+ sales analysis , predictive sales ,visualization  i want this to also provide suggestion like restocking , what is a popular product , 
+and seasonal trends(optional because need alot of data) 
+
+features:
+	•user friendly GUI
+	•basic CRUD
+	•database to store data inputed
+	•optional visualization or auto matic and dash board
+	•account 

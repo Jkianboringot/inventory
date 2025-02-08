@@ -1,0 +1,2 @@
+
+        inve= Inventory(content=taskcontent)
